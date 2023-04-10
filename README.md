@@ -1,1 +1,1 @@
-# clock
+# My clock application
